@@ -1,0 +1,11 @@
+1. create a folder
+   mkdir folder-name
+   
+2. create file 
+   touch file-name
+   
+3. edit a file
+   vim file-name
+   
+4. 
+
